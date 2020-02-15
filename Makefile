@@ -2,4 +2,5 @@
 all:
 	./mvnw package
 
--include User.mk
+-include .User.mk
+-include ~/.User.mk

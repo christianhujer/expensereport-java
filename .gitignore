@@ -1,3 +1,9 @@
-.idea/workspace.xml
+# IntelliJ IDEA
+.idea
+*.iml
+
+# make
+.User.mk
+
+# Maven
 target/
-User.mk
